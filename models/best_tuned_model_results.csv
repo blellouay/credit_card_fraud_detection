@@ -1,0 +1,2 @@
+model,best_cv_AUPRC,test_AUPRC,test_ROC_AUC,test_Precision,test_Recall,test_F1,best_params
+RandomForestClassifier,0.8388283236925097,0.801730466878973,0.9773608307188334,0.8390804597701149,0.7684210526315789,0.8021978021978022,"{'model__n_estimators': 200, 'model__min_samples_split': 5, 'model__min_samples_leaf': 4, 'model__max_features': 'log2', 'model__max_depth': 20}"
